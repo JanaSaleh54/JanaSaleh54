@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **a mobile application project**
+- 🔭 I’m currently working on **a mobile mobileee application project**
 
 - 🌱 I’m currently **learning flutter & dart**
 
